@@ -24,7 +24,7 @@
 - I am a full time software engineer
 ## **📊 Github Stats**
 <!-- <div><a href="https://github.com/Graphicscore"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=Graphicscore&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graphicscore&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+<p align="center"><img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Graphicscore&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graphicscore&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
 ## **🎧 Music**
