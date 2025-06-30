@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/133976466265210880"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/133976466265210880?showDisplayName=true&bg=0d1117&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..." /></a>
 
 
-### Heya! I'm Astria ✨
+### Heya! I'm Asteria ✨
 
 *puppy girl in disguise*
 
